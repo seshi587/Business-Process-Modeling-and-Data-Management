@@ -1,1 +1,1 @@
-# Business-Process-Modeling-and-Data-Management
+Created a new process model using Microsoft Visio to automate the manual claim reimbursement process for claims related to employee's travel plans, hotel reservations, car rentals, certification exams,etc. Implemented an Oracle database for the claim reimbursement system in third normalization form which optimized the system.The effectiveness of the new process provides a high degree of reliability and minimizes human effort and time.
